@@ -1,0 +1,12 @@
+# 视频网站设置
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,mutean.com
+DOMAIN-SUFFIX,acgyaojun.com
+DOMAIN-SUFFIX,yinghuacd.com
+# 域名关键字匹配
+
+# IP段匹配
+
+
+# 国内DNS
