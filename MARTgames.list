@@ -1,7 +1,14 @@
 # 游戏设置
 # MyList
 # 域名后缀匹配
-
+DOMAIN-SUFFIX,genshinimpact.com
+# DOMAIN-SUFFIX,honkaiimpact3.com
+# DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
 # 域名关键字匹配
 
 # IP段匹配
