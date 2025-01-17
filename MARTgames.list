@@ -4,12 +4,12 @@
 # DOMAIN-SUFFIX,genshinimpact.com
 # DOMAIN-SUFFIX,honkaiimpact3.com
 # DOMAIN-SUFFIX,honkaistarrail.com
-DOMAIN-SUFFIX,hoyo.link
+# DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
-DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,n0vadesktop.com
-DOMAIN-SUFFIX,zenlesszonezero.com
+# DOMAIN-SUFFIX,mihoyo.com
+# DOMAIN-SUFFIX,n0vadesktop.com
+# DOMAIN-SUFFIX,zenlesszonezero.com
 # 域名关键字匹配
 
 # IP段匹配
